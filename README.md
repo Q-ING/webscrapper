@@ -8,5 +8,6 @@ Its function is to collect data off a webpage to display on the console as well 
 
 
 the second file index2.js
+
 simple web scrapper using javascript
 It uses reuest-promise and cheerio. It captures data as t is sent from the server via a xhr file and displays it on a console.
